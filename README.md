@@ -1,4 +1,4 @@
-# Anime Recommendation Project
+# Anime Recommendation System
 
 Files
 - anime excel.xlsx contains the anime DataSet I used
