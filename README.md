@@ -17,3 +17,7 @@ Summary:-
 - Being an Otaku sometimes I runout of animes to watch which results in lot of time Wasted in Searching, with this recommendation model was able to find some Great Animes for Example An Anime Called "Major" a completed sports genre anime series
  
 - The Logic used can also be Applied For the different Recommendation systems like Movies, songs etc with A little tweaking 
+
+
+
+# yes committed
